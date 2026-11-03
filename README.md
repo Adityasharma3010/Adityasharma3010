@@ -2,7 +2,7 @@
 ### Full-Stack Web Developer | Software & Game Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-46a44a1a0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aditya-sharma.co.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adityasharma.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakul.adi@gmail.com)
 
 Welcome to my GitHub profile! I am a software developer deeply focused on the web development space, building highly responsive, scalable, and user-centric web applications. Alongside my full-stack web work, I also have a strong foundation in C++ software engineering and immersive game development with Unreal Engine.
@@ -52,5 +52,5 @@ Welcome to my GitHub profile! I am a software developer deeply focused on the we
 ## 📈 Connect With Me
 
 *   💼 **LinkedIn:** [Aditya Sharma on LinkedIn](https://www.linkedin.com/in/aditya-sharma-46a44a1a0/)
-*   🌐 **Portfolio:** [aditya-sharma.co.in](https://aditya-sharma.co.in/)
+*   🌐 **Portfolio:** [adityasharma.site](https://www.adityasharma.site/)
 *   ✉️ **Email:** [nakul.adi@gmail.com](mailto:nakul.adi@gmail.com)
